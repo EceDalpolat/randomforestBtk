@@ -2,6 +2,7 @@
 Bu proje, öğrencilerin akademik başarısını etkileyen faktörleri araştırmayı amaçlamaktadır. Veri setimizde yer alan öğrenci bilgileri kullanılarak,
 cinsiyet, yaş, aile durumu, eğitim seviyesi, meslek, seyahat süresi, çalışma süresi, aile içi ilişkiler, sosyal aktiviteler, alkol tüketimi, sağlık durumu, devamsızlık ve notlar gibi 
 faktörlerin öğrenci başarısına etkisi incelenmiştir!
+#Kullanılan Teknolojiler
 Python: Ana programlama dili olarak Python kullanılmıştır.
 Tkinter: Grafiksel kullanıcı arayüzü (GUI) oluşturmak için kullanılan Python kütüphanesi.
 NumPy: Sayısal hesaplamalar ve veri işleme için kullanılan bir Python kütüphanesi.
